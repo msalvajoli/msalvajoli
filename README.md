@@ -35,7 +35,7 @@ OPERADOR:
   nome:      "Matheus"
   codinome:  "MTH"
   papel:     ["Empreendedor Digital", "Product Builder", "Orquestrador de IA"]
-  base:      "Brasil 🇧🇷"
+  base:      "Brasil"
   nicho:     ["Desenvolvimento pessoal", "EdTech"]
 
 ESTADO_ATUAL:
