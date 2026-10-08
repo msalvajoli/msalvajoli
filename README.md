@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  MTH // NEURAL INTERFACE — README de perfil (edição combinada)       ║
-║  1. Troque TODAS as ocorrências de  SEU_USUARIO  pelo seu @ do GitHub ║
+║  1. Troque TODAS as ocorrências de  msalvajoli  pelo seu @ do GitHub ║
 ║  2. Troque os links marcados com  SEU_...                            ║
 ║  3. Suba a pasta /assets e o arquivo .github/workflows/snake.yml     ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/msalvajoli">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+MTH+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder+%7C+IA;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=ACESSOS&color=00E5FF&style=for-the-badge&labelColor=0A0F1C" alt="Visitas" />
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=FF2BD6&labelColor=0A0F1C&logo=github&logoColor=FF2BD6" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/SEU_USUARIO?label=ESTRELAS&style=for-the-badge&color=39FF88&labelColor=0A0F1C&logo=github&logoColor=39FF88" alt="Estrelas" />
-  <img src="https://img.shields.io/badge/BASE-BRASIL_%F0%9F%87%A7%F0%9F%87%B7-00E5FF?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
+  <img src="https://komarev.com/ghpvc/?username=msalvajoli&label=ACESSOS&color=00E5FF&style=for-the-badge&labelColor=0A0F1C" alt="Visitas" />
+  <img src="https://img.shields.io/github/followers/msalvajoli?label=SEGUIDORES&style=for-the-badge&color=FF2BD6&labelColor=0A0F1C&logo=github&logoColor=FF2BD6" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/msalvajoli?label=ESTRELAS&style=for-the-badge&color=39FF88&labelColor=0A0F1C&logo=github&logoColor=39FF88" alt="Estrelas" />
+  <img src="https://img.shields.io/badge/BASE-BRASIL-00E5FF?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
@@ -134,16 +134,16 @@ STATUS:
 <img src="./assets/h04.svg" width="100%" alt="04 · Projetos" />
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/enem-ai"><img src="./assets/card-enem-ai.svg" width="49%" alt="ENEM AI" /></a>
+  <a href="https://github.com/msalvajoli?tab=repositories"><img src="./assets/card-enem-ai.svg" width="49%" alt="ENEM AI" /></a>
   <a href="https://SEU-LINK-DA-KIWIFY"><img src="./assets/card-codigo-disciplina.svg" width="49%" alt="O Código da Disciplina" /></a>
 </p>
 <p align="center">
   <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="./assets/card-foco.svg" width="49%" alt="Foco Sem Desculpas" /></a>
-  <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-web.svg" width="49%" alt="Experiências Digitais" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-web.svg" width="49%" alt="Experiências Digitais" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-lab.svg" width="49%" alt="Laboratório de IA" /></a>
-  <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-classified.svg" width="49%" alt="Projeto classificado" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-lab.svg" width="49%" alt="Laboratório de IA" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-classified.svg" width="49%" alt="Projeto classificado" /></a>
 </p>
 
 <!--
@@ -151,8 +151,8 @@ STATUS:
   cards dinâmicos (estrelas, forks e linguagem atualizados automaticamente).
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO-1&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
-  <a href="https://github.com/SEU_USUARIO/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO-2&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
+  <a href="https://github.com/msalvajoli/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msalvajoli&repo=REPO-1&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
+  <a href="https://github.com/msalvajoli/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msalvajoli&repo=REPO-2&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
 </p>
 -->
 
@@ -167,23 +167,23 @@ STATUS:
 <img src="./assets/h06.svg" width="100%" alt="06 · Telemetria" />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9&ring_color=00E5FF" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&hide_border=true&locale=pt-br&bg_color=0A0F1C&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalvajoli&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9&ring_color=00E5FF" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalvajoli&layout=compact&langs_count=8&hide_border=true&locale=pt-br&bg_color=0A0F1C&title_color=00E5FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&locale=pt_BR&hide_border=true&background=0A0F1C&ring=00E5FF&fire=FF2BD6&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=6E7F96&stroke=1F2A3C" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=msalvajoli&locale=pt_BR&hide_border=true&background=0A0F1C&ring=00E5FF&fire=FF2BD6&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=6E7F96&stroke=1F2A3C" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0A0F1C&color=C9D1D9&line=00E5FF&point=FF2BD6&area=true&area_color=00E5FF&title_color=00E5FF&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=msalvajoli&bg_color=0A0F1C&color=C9D1D9&line=00E5FF&point=FF2BD6&area=true&area_color=00E5FF&title_color=00E5FF&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
 </p>
 
 <!-- ═════════════════════════ 07 · CONQUISTAS ═════════════════════════ -->
 <img src="./assets/h07.svg" width="100%" alt="07 · Conquistas" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=msalvajoli&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies" />
 </p>
 
 <!-- ═════════════════════════ 08 · SNAKE ═════════════════════════ -->
@@ -191,9 +191,9 @@ STATUS:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake-cyber.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake-cyber.svg" alt="Snake comendo as contribuições" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msalvajoli/msalvajoli/output/snake-cyber.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msalvajoli/msalvajoli/output/snake-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/msalvajoli/msalvajoli/output/snake-cyber.svg" alt="Snake comendo as contribuições" />
   </picture>
 </p>
 
@@ -201,7 +201,7 @@ STATUS:
 <img src="./assets/h09.svg" width="100%" alt="09 · Conexões" />
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-Seguir-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1C" alt="GitHub" /></a>
+  <a href="https://github.com/msalvajoli"><img src="https://img.shields.io/badge/GitHub-Seguir-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1C" alt="GitHub" /></a>
   <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="https://img.shields.io/badge/TikTok-%40focosemdesculpas0-FF2BD6?style=for-the-badge&logo=tiktok&logoColor=FF2BD6&labelColor=0A0F1C" alt="TikTok" /></a>
   <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Seguir-FF2BD6?style=for-the-badge&logo=instagram&logoColor=FF2BD6&labelColor=0A0F1C" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0F1C" alt="LinkedIn" /></a>
