@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/msalvajoli">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+MTH+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder+%7C+IA;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+MTH+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder;Vibe+Coder%3A+eu+dirijo%2C+a+IA+codifica;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
   </a>
 </p>
 
@@ -30,32 +30,12 @@
 <!-- ═════════════════════════ 01 · SOBRE MIM ═════════════════════════ -->
 <img src="./assets/h01.svg" width="100%" alt="01 · Sobre mim" />
 
-```yaml
-OPERADOR:
-  nome:      "Matheus"
-  codinome:  "MTH"
-  papel:     ["Empreendedor Digital", "Product Builder", "Orquestrador de IA"]
-  base:      "Brasil"
-  nicho:     ["Desenvolvimento pessoal", "EdTech"]
-
-ESTADO_ATUAL:
-  construindo: ["ENEM AI", "O Código da Disciplina", "Foco Sem Desculpas"]
-  explorando:  ["Arquitetura de software", "Agentes de IA", "Automação"]
-  metodo:      "Planejar → Arquitetar → Construir com IA → Validar → Escalar"
-  padrao:      "Qualidade nível Apple · Linear · Stripe"
-
-MISSAO: >
-  Transformar ideias em produtos digitais úteis,
-  rápidos e memoráveis.
-
-STATUS:
-  online:    true
-  foco:      true
-  desculpas: false   # regra da casa
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="Sobre mim: Matheus (MTH), empreendedor digital, product builder, orquestrador de IA e vibe coder" />
+</p>
 
 > [!NOTE]
-> **Não sou o dev tradicional.** Sou o produto, a visão e as decisões: desenho a arquitetura, defino a experiência e conduzo a IA como meu time de engenharia, do primeiro commit ao deploy.
+> **Sou vibe coder, não o dev tradicional.** Sou o produto, a visão e as decisões: desenho a arquitetura, defino a experiência e conduzo a IA como meu time de engenharia, do primeiro commit ao deploy.
 
 <table>
   <tr>
