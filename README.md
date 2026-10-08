@@ -9,7 +9,7 @@
 
 <!-- ═════════════════════════ SYSTEM BOOT ═════════════════════════ -->
 <p align="center">
-  <img src="./assets/boot.svg" width="100%" alt="Salvajoli Neural Interface inicializando" />
+  <img src="./assets/boot.svg?v=2" width="100%" alt="Salvajoli Neural Interface inicializando" />
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
   <img src="https://img.shields.io/badge/BASE-BRASIL-00E5FF?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg?v=2" width="100%" alt="" /></p>
 
 <!-- ═════════════════════════ 01 · SOBRE MIM ═════════════════════════ -->
-<img src="./assets/h01.svg" width="100%" alt="01 · Sobre mim" />
+<img src="./assets/h01.svg?v=2" width="100%" alt="01 · Sobre mim" />
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Sobre mim: Matheus Salvajoli, empreendedor digital, product builder, orquestrador de IA e vibe coder" />
+  <img src="./assets/about.svg?v=2" width="100%" alt="Sobre mim: Matheus Salvajoli, empreendedor digital, product builder, orquestrador de IA e vibe coder" />
 </p>
 
 > [!NOTE]
@@ -61,7 +61,7 @@
 <p align="center"><b><i>“Não basta usar tecnologia. Construa com ela.”</i></b></p>
 
 <!-- ═════════════════════════ 02 · TECH STACK ═════════════════════════ -->
-<img src="./assets/h02.svg" width="100%" alt="02 · Tech Stack" />
+<img src="./assets/h02.svg?v=2" width="100%" alt="02 · Tech Stack" />
 
 <p align="center"><sub><code>CORE · FRONT-END</code></sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Front-end" />
@@ -86,7 +86,7 @@
 </p>
 
 <!-- ═════════════════════════ 03 · FERRAMENTAS ═════════════════════════ -->
-<img src="./assets/h03.svg" width="100%" alt="03 · Ferramentas" />
+<img src="./assets/h03.svg?v=2" width="100%" alt="03 · Ferramentas" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman,md,windows&theme=dark" alt="Ferramentas" />
@@ -111,19 +111,19 @@
 ```
 
 <!-- ═════════════════════════ 04 · PROJETOS ═════════════════════════ -->
-<img src="./assets/h04.svg" width="100%" alt="04 · Projetos" />
+<img src="./assets/h04.svg?v=2" width="100%" alt="04 · Projetos" />
 
 <p align="center">
-  <a href="https://github.com/msalvajoli?tab=repositories"><img src="./assets/card-enem-ai.svg" width="49%" alt="ENEM AI" /></a>
-  <a href="https://msalvajoli.github.io/CodicoDaDisciplina/"><img src="./assets/card-codigo-disciplina.svg" width="49%" alt="O Código da Disciplina" /></a>
+  <a href="https://github.com/msalvajoli?tab=repositories"><img src="./assets/card-enem-ai.svg?v=2" width="49%" alt="ENEM AI" /></a>
+  <a href="https://msalvajoli.github.io/CodicoDaDisciplina/"><img src="./assets/card-codigo-disciplina.svg?v=2" width="49%" alt="O Código da Disciplina" /></a>
 </p>
 <p align="center">
-  <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="./assets/card-foco.svg" width="49%" alt="Foco Sem Desculpas" /></a>
-  <a href="https://github.com/msalvajoli"><img src="./assets/card-web.svg" width="49%" alt="Experiências Digitais" /></a>
+  <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="./assets/card-foco.svg?v=2" width="49%" alt="Foco Sem Desculpas" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-web.svg?v=2" width="49%" alt="Experiências Digitais" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/msalvajoli"><img src="./assets/card-lab.svg" width="49%" alt="Laboratório de IA" /></a>
-  <a href="https://github.com/msalvajoli"><img src="./assets/card-classified.svg" width="49%" alt="Projeto classificado" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-lab.svg?v=2" width="49%" alt="Laboratório de IA" /></a>
+  <a href="https://github.com/msalvajoli"><img src="./assets/card-classified.svg?v=2" width="49%" alt="Projeto classificado" /></a>
 </p>
 
 <!--
@@ -137,14 +137,14 @@
 -->
 
 <!-- ═════════════════════════ 05 · OBJETIVOS ═════════════════════════ -->
-<img src="./assets/h05.svg" width="100%" alt="05 · Objetivos" />
+<img src="./assets/h05.svg?v=2" width="100%" alt="05 · Objetivos" />
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal: objetivos atuais" />
+  <img src="./assets/terminal.svg?v=2" width="100%" alt="Terminal: objetivos atuais" />
 </p>
 
 <!-- ═════════════════════════ 06 · TELEMETRIA ═════════════════════════ -->
-<img src="./assets/h06.svg" width="100%" alt="06 · Telemetria" />
+<img src="./assets/h06.svg?v=2" width="100%" alt="06 · Telemetria" />
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=msalvajoli&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9&ring_color=00E5FF" alt="GitHub Stats" />
@@ -160,14 +160,14 @@
 </p>
 
 <!-- ═════════════════════════ 07 · CONQUISTAS ═════════════════════════ -->
-<img src="./assets/h07.svg" width="100%" alt="07 · Conquistas" />
+<img src="./assets/h07.svg?v=2" width="100%" alt="07 · Conquistas" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=msalvajoli&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" alt="GitHub Trophies" />
 </p>
 
 <!-- ═════════════════════════ 08 · SNAKE ═════════════════════════ -->
-<img src="./assets/h08.svg" width="100%" alt="08 · Protocolo Snake" />
+<img src="./assets/h08.svg?v=2" width="100%" alt="08 · Protocolo Snake" />
 
 <p align="center">
   <picture>
@@ -178,7 +178,7 @@
 </p>
 
 <!-- ═════════════════════════ 09 · CONEXÕES ═════════════════════════ -->
-<img src="./assets/h09.svg" width="100%" alt="09 · Conexões" />
+<img src="./assets/h09.svg?v=2" width="100%" alt="09 · Conexões" />
 
 <p align="center">
   <a href="https://github.com/msalvajoli"><img src="https://img.shields.io/badge/GitHub-Seguir-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1C" alt="GitHub" /></a>
@@ -188,10 +188,10 @@
 </p>
 
 <!-- ═════════════════════════ RODAPÉ ═════════════════════════ -->
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+<p align="center"><img src="./assets/divider.svg?v=2" width="100%" alt="" /></p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Fim da transmissão: o futuro não é algo que se espera, é algo que se constrói" />
+  <img src="./assets/footer.svg?v=2" width="100%" alt="Fim da transmissão: o futuro não é algo que se espera, é algo que se constrói" />
 </p>
 
 <p align="center">
