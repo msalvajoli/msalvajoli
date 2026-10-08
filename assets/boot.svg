@@ -109,7 +109,7 @@
       </g>
 
       <!-- top status bar -->
-      <text x="42" y="50" font-size="12" fill="#00E5FF" fill-opacity=".7" letter-spacing="2">SYS://MTH.OS  ·  OPERADOR MATHEUS  ·  BUILD 2026.10  ·  NODE BR-SP  ·  UPLINK 98.7%</text>
+      <text x="42" y="50" font-size="12" fill="#00E5FF" fill-opacity=".7" letter-spacing="2">SYS://SALVAJOLI.OS  ·  OPERADOR MATHEUS  ·  BUILD 2026.10  ·  NODE BR-SP  ·  UPLINK 98.7%</text>
       <circle cx="1048" cy="46" r="4" fill="#39FF88" class="breathe"/>
       <text x="1060" y="50" font-size="12" fill="#39FF88" letter-spacing="2">ONLINE</text>
 

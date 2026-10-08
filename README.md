@@ -1,6 +1,6 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║  MTH // NEURAL INTERFACE — README de perfil (edição combinada)       ║
+║  SALVAJOLI // NEURAL INTERFACE — README de perfil                    ║
 ║  1. Troque TODAS as ocorrências de  msalvajoli  pelo seu @ do GitHub ║
 ║  2. Troque os links marcados com  SEU_...                            ║
 ║  3. Suba a pasta /assets e o arquivo .github/workflows/snake.yml     ║
@@ -9,12 +9,12 @@
 
 <!-- ═════════════════════════ SYSTEM BOOT ═════════════════════════ -->
 <p align="center">
-  <img src="./assets/boot.svg" width="100%" alt="MTH Neural Interface inicializando" />
+  <img src="./assets/boot.svg" width="100%" alt="Salvajoli Neural Interface inicializando" />
 </p>
 
 <p align="center">
   <a href="https://github.com/msalvajoli">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+MTH+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder;Vibe+Coder%3A+eu+dirijo%2C+a+IA+codifica;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+Salvajoli+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder;Vibe+Coder%3A+eu+dirijo%2C+a+IA+codifica;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <img src="./assets/h01.svg" width="100%" alt="01 · Sobre mim" />
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="Sobre mim: Matheus (MTH), empreendedor digital, product builder, orquestrador de IA e vibe coder" />
+  <img src="./assets/about.svg" width="100%" alt="Sobre mim: Matheus Salvajoli, empreendedor digital, product builder, orquestrador de IA e vibe coder" />
 </p>
 
 > [!NOTE]
@@ -195,5 +195,5 @@
 </p>
 
 <p align="center">
-  <sub><code>// conexão encerrada com sucesso</code> · © 2026 MTH · SYSTEM ONLINE · se algo aqui te inspirou, deixe uma ⭐</sub>
+  <sub><code>// conexão encerrada com sucesso</code> · © 2026 SALVAJOLI · SYSTEM ONLINE · se algo aqui te inspirou, deixe uma ⭐</sub>
 </p>

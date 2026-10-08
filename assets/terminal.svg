@@ -46,16 +46,16 @@
   <circle cx="34" cy="29" r="6" fill="#FF2BD6"/>
   <circle cx="56" cy="29" r="6" fill="#FFB300"/>
   <circle cx="78" cy="29" r="6" fill="#00E5FF"/>
-  <text x="500" y="34" text-anchor="middle" fill="#6E7F96" style="font-size:13px" letter-spacing="1">mth@neural-core: ~/objetivos</text>
+  <text x="500" y="34" text-anchor="middle" fill="#6E7F96" style="font-size:13px" letter-spacing="1">salvajoli@neural-core: ~/objetivos</text>
   <text x="966" y="34" text-anchor="end" fill="#39FF88" style="font-size:12px" letter-spacing="2" class="pulse">● LIVE</text>
 
   <!-- line 1 : typed command -->
-  <text x="34" y="88"><tspan fill="#39FF88">mth@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
-  <text x="222" y="88" fill="#FFFFFF">./objetivos --ano 2026 --modo foco_total</text>
+  <text x="34" y="88"><tspan fill="#39FF88">salvajoli@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
+  <text x="276" y="88" fill="#FFFFFF">./objetivos --ano 2026 --modo foco_total</text>
   <!-- typing mask: slides right in steps, revealing the command -->
   <g class="typer">
-    <rect x="218" y="70" width="440" height="26" fill="#070B14"/>
-    <rect x="218" y="73" width="9" height="19" fill="#00E5FF" class="caret1"/>
+    <rect x="272" y="70" width="440" height="26" fill="#070B14"/>
+    <rect x="272" y="73" width="9" height="19" fill="#00E5FF" class="caret1"/>
   </g>
 
   <text x="34" y="122" class="ln t1"><tspan fill="#FF2BD6">[▸]</tspan><tspan fill="#8B98A9"> Carregando diretrizes ativas... </tspan><tspan fill="#39FF88">5 missões encontradas</tspan></text>
@@ -101,7 +101,7 @@
 
   <text x="34" y="412" class="ln t8"><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Aprender.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Construir.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Lançar.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#00E5FF"> Melhorar.</tspan></text>
   <g class="ln t9">
-    <text x="34" y="452"><tspan fill="#39FF88">mth@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
-    <rect x="226" y="437" width="9" height="19" fill="#00E5FF" class="blink"/>
+    <text x="34" y="452"><tspan fill="#39FF88">salvajoli@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
+    <rect x="280" y="437" width="9" height="19" fill="#00E5FF" class="blink"/>
   </g>
 </svg>
