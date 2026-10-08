@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divisor">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#00E5FF" stop-opacity=".6"/>
+      <stop offset=".7" stop-color="#FF2BD6" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFF"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .run { animation: run 4s cubic-bezier(.45,0,.55,1) infinite alternate; }
+    @keyframes run { from { transform: translateX(80px); } to { transform: translateX(920px); } }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 6s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#l)"/>
+  <rect x="0" y="10" width="200" height="4" fill="url(#s)" class="run" filter="url(#g)"/>
+  <rect x="593" y="5" width="14" height="14" fill="#05070D" stroke="#00E5FF" stroke-width="2" transform="rotate(45 600 12)"/>
+  <rect x="597" y="9" width="6" height="6" fill="#FF2BD6" class="spin"/>
+</svg>

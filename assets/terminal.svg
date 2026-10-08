@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 490" width="1000" height="490" role="img" aria-label="Terminal com os objetivos atuais de Matheus">
+  <title>~/objetivos</title>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#00E5FF" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#FF2BD6" stop-opacity=".7"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFFFFF" opacity=".025"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono','Courier New',monospace; font-size:16px; }
+    .typer   { animation: type 2.2s steps(44) .6s forwards, hide 0s linear 3s forwards; }
+    @keyframes type { to { transform: translateX(440px); } }
+    .caret1  { animation: hide 0s linear 3s forwards; }
+    @keyframes hide { to { opacity: 0; } }
+    .ln { opacity: 0; animation: in .35s ease-out forwards; }
+    @keyframes in { from { opacity:0; transform: translateX(-10px); } to { opacity:1; transform:none; } }
+    .t1{animation-delay:3.0s} .t2{animation-delay:3.5s} .t3{animation-delay:3.8s} .t4{animation-delay:4.1s}
+    .t5{animation-delay:4.4s} .t6{animation-delay:4.7s} .t7{animation-delay:5.3s} .t8{animation-delay:5.7s} .t9{animation-delay:6.2s}
+    .fill { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: fill 1.2s cubic-bezier(.2,.8,.2,1) forwards; }
+    @keyframes fill { to { transform: scaleX(1); } }
+    .f1{animation-delay:3.6s} .f2{animation-delay:3.9s} .f3{animation-delay:4.2s} .f4{animation-delay:4.5s} .f5{animation-delay:4.8s}
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  </style>
+
+  <!-- window -->
+  <rect x="8" y="8" width="984" height="474" rx="14" fill="#070B14"/>
+  <rect x="8" y="8" width="984" height="474" rx="14" fill="url(#scan)"/>
+  <rect x="8.5" y="8.5" width="983" height="473" rx="14" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M8 50H992" stroke="#00E5FF" stroke-opacity=".15"/>
+  <circle cx="34" cy="29" r="6" fill="#FF2BD6"/>
+  <circle cx="56" cy="29" r="6" fill="#FFB300"/>
+  <circle cx="78" cy="29" r="6" fill="#00E5FF"/>
+  <text x="500" y="34" text-anchor="middle" fill="#6E7F96" style="font-size:13px" letter-spacing="1">mth@neural-core: ~/objetivos</text>
+  <text x="966" y="34" text-anchor="end" fill="#39FF88" style="font-size:12px" letter-spacing="2" class="pulse">● LIVE</text>
+
+  <!-- line 1 : typed command -->
+  <text x="34" y="88"><tspan fill="#39FF88">mth@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
+  <text x="222" y="88" fill="#FFFFFF">./objetivos --ano 2026 --modo foco_total</text>
+  <!-- typing mask: slides right in steps, revealing the command -->
+  <g class="typer">
+    <rect x="218" y="70" width="440" height="26" fill="#070B14"/>
+    <rect x="218" y="73" width="9" height="19" fill="#00E5FF" class="caret1"/>
+  </g>
+
+  <text x="34" y="122" class="ln t1"><tspan fill="#FF2BD6">[▸]</tspan><tspan fill="#8B98A9"> Carregando diretrizes ativas... </tspan><tspan fill="#39FF88">5 missões encontradas</tspan></text>
+
+  <!-- goals -->
+  <g class="ln t2">
+    <text x="34" y="168" fill="#39FF88">✔</text>
+    <text x="62" y="168" fill="#E6EDF3">Colocar o ENEM AI em produção</text>
+    <rect x="600" y="158" width="260" height="10" rx="5" fill="#111A2B"/>
+    <rect x="600" y="158" width="208" height="10" rx="5" fill="url(#bar)" class="fill f1" filter="url(#glow)"/>
+    <text x="960" y="168" text-anchor="end" fill="#00E5FF">80%</text>
+  </g>
+  <g class="ln t3">
+    <text x="34" y="208" fill="#00E5FF">◉</text>
+    <text x="62" y="208" fill="#E6EDF3">Escalar "O Código da Disciplina"</text>
+    <rect x="600" y="198" width="260" height="10" rx="5" fill="#111A2B"/>
+    <rect x="600" y="198" width="156" height="10" rx="5" fill="url(#bar)" class="fill f2" filter="url(#glow)"/>
+    <text x="960" y="208" text-anchor="end" fill="#00E5FF">60%</text>
+  </g>
+  <g class="ln t4">
+    <text x="34" y="248" fill="#00E5FF">◉</text>
+    <text x="62" y="248" fill="#E6EDF3">Crescer a audiência do @focosemdesculpas0</text>
+    <rect x="600" y="238" width="260" height="10" rx="5" fill="#111A2B"/>
+    <rect x="600" y="238" width="130" height="10" rx="5" fill="url(#bar)" class="fill f3" filter="url(#glow)"/>
+    <text x="960" y="248" text-anchor="end" fill="#00E5FF">50%</text>
+  </g>
+  <g class="ln t5">
+    <text x="34" y="288" fill="#00E5FF">◉</text>
+    <text x="62" y="288" fill="#E6EDF3">Dominar orquestração de IA em produtos</text>
+    <rect x="600" y="278" width="260" height="10" rx="5" fill="#111A2B"/>
+    <rect x="600" y="278" width="182" height="10" rx="5" fill="url(#bar)" class="fill f4" filter="url(#glow)"/>
+    <text x="960" y="288" text-anchor="end" fill="#00E5FF">70%</text>
+  </g>
+  <g class="ln t6">
+    <text x="34" y="328" fill="#FFB300">○</text>
+    <text x="62" y="328" fill="#E6EDF3">Lançar o próximo SaaS</text>
+    <rect x="600" y="318" width="260" height="10" rx="5" fill="#111A2B"/>
+    <rect x="600" y="318" width="52" height="10" rx="5" fill="url(#bar)" class="fill f5" filter="url(#glow)"/>
+    <text x="960" y="328" text-anchor="end" fill="#FFB300">20%</text>
+  </g>
+
+  <text x="34" y="374" class="ln t7"><tspan fill="#FFB300">[i]</tspan><tspan fill="#8B98A9"> status: </tspan><tspan fill="#39FF88">executando</tspan><tspan fill="#8B98A9">  ·  regra nº1: </tspan><tspan fill="#FF2BD6">disciplina &gt; motivação</tspan></text>
+
+  <text x="34" y="412" class="ln t8"><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Aprender.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Construir.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#C9D1D9"> Lançar.  </tspan><tspan fill="#FF2BD6">&gt;</tspan><tspan fill="#00E5FF"> Melhorar.</tspan></text>
+  <g class="ln t9">
+    <text x="34" y="452"><tspan fill="#39FF88">mth@neural-core</tspan><tspan fill="#6E7F96">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#C9D1D9">$</tspan></text>
+    <rect x="226" y="437" width="9" height="19" fill="#00E5FF" class="blink"/>
+  </g>
+</svg>

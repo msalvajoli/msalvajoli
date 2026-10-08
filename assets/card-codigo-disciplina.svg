@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="O Código da Disciplina">
+  <title>O Código da Disciplina</title>
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF2BD6" stop-opacity=".85"/>
+      <stop offset=".5" stop-color="#FF2BD6" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity=".7"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="85%" cy="0%" r="70%">
+      <stop offset="0" stop-color="#FF2BD6" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FF2BD6" stroke-opacity=".05"/></pattern>
+    <filter id="g" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono','Courier New',monospace; }
+    .trace { stroke-dasharray: 120 1640; animation: trace 6s linear infinite; }
+    @keyframes trace { to { stroke-dashoffset: -1760; } }
+    .pulse { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+    .redact { animation: redact 3s steps(1) infinite; }
+    @keyframes redact { 0%,90%,100% { opacity: 1; } 92% { opacity: .3; } 94% { opacity: 1; } 96% { opacity: .5; } }
+  </style>
+  <rect x="6" y="6" width="588" height="288" rx="16" fill="#070B14"/>
+  <rect x="6" y="6" width="588" height="288" rx="16" fill="url(#grid)"/>
+  <rect x="6" y="6" width="588" height="288" rx="16" fill="url(#gl)"/>
+  <rect x="6.5" y="6.5" width="587" height="287" rx="16" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+  <rect x="6.5" y="6.5" width="587" height="287" rx="16" fill="none" stroke="#FF2BD6" stroke-width="2.5" class="trace" filter="url(#g)"/>
+
+  <text x="34" y="46" font-size="12" fill="#FF2BD6" letter-spacing="3">PROJETO_02</text>
+  <rect x="465" y="28" width="101" height="26" rx="13" fill="#39FF88" fill-opacity=".1" stroke="#39FF88" stroke-opacity=".6"/>
+  <circle cx="481" cy="41" r="4" fill="#39FF88" class="pulse"/>
+  <text x="493" y="45.5" font-size="12" fill="#39FF88" letter-spacing="1.5">ONLINE</text>
+
+  <g transform="translate(34 70)" fill="none" stroke="#FF2BD6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)"><path d="M6 8h11a3 3 0 0 1 3 3v22a3 3 0 0 0-3-3H6Z M34 8H23a3 3 0 0 0-3 3v22a3 3 0 0 1 3-3h11Z"/></g>
+  <text x="88" y="101" font-size="26" font-weight="800" fill="#FFFFFF" letter-spacing="1">O Código da Disciplina</text>
+
+  <text x="34" y="150" font-size="15" fill="#8B98A9"><tspan x="34" dy="0">E-book + landing page premium de alta</tspan><tspan x="34" dy="24">conversão com animações cinematográficas.</tspan></text>
+  <rect x="34" y="218" width="53" height="26" rx="13" fill="#FF2BD6" fill-opacity=".08" stroke="#FF2BD6" stroke-opacity=".45"/><text x="60" y="235.5" text-anchor="middle" font-size="12.5" fill="#C9D1D9">HTML</text><rect x="95" y="218" width="53" height="26" rx="13" fill="#FF2BD6" fill-opacity=".08" stroke="#FF2BD6" stroke-opacity=".45"/><text x="122" y="235.5" text-anchor="middle" font-size="12.5" fill="#C9D1D9">GSAP</text><rect x="156" y="218" width="123" height="26" rx="13" fill="#FF2BD6" fill-opacity=".08" stroke="#FF2BD6" stroke-opacity=".45"/><text x="218" y="235.5" text-anchor="middle" font-size="12.5" fill="#C9D1D9">ScrollTrigger</text><rect x="287" y="218" width="68" height="26" rx="13" fill="#FF2BD6" fill-opacity=".08" stroke="#FF2BD6" stroke-opacity=".45"/><text x="321" y="235.5" text-anchor="middle" font-size="12.5" fill="#C9D1D9">Kiwify</text>
+  <text x="566" y="270" text-anchor="end" font-size="12" fill="#FF2BD6" letter-spacing="2">ACESSAR →</text>
+</svg>
