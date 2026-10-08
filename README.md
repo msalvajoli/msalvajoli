@@ -203,8 +203,7 @@ STATUS:
 <p align="center">
   <a href="https://github.com/msalvajoli"><img src="https://img.shields.io/badge/GitHub-Seguir-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1C" alt="GitHub" /></a>
   <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="https://img.shields.io/badge/TikTok-%40focosemdesculpas0-FF2BD6?style=for-the-badge&logo=tiktok&logoColor=FF2BD6&labelColor=0A0F1C" alt="TikTok" /></a>
-  <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Seguir-FF2BD6?style=for-the-badge&logo=instagram&logoColor=FF2BD6&labelColor=0A0F1C" alt="Instagram" /></a>
-  <a href="mailto:SEU_EMAIL@dominio.com"><img src="https://img.shields.io/badge/E--mail-Transmitir-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0A0F1C" alt="E-mail" /></a>
+  <a href="https://www.instagram.com/mt.olvr7/"><img src="https://img.shields.io/badge/Instagram-%40mt.olvr7-FF2BD6?style=for-the-badge&logo=instagram&logoColor=FF2BD6&labelColor=0A0F1C" alt="Instagram" /></a>
   <a href="https://SEU-LINK-DA-KIWIFY"><img src="https://img.shields.io/badge/Loja-O_C%C3%B3digo_da_Disciplina-39FF88?style=for-the-badge&labelColor=0A0F1C" alt="Loja" /></a>
 </p>
 
