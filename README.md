@@ -1,28 +1,28 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║  M.A.T.H.E.U.S // NEURAL INTERFACE — README de perfil                ║
+║  MTH // NEURAL INTERFACE — README de perfil (edição combinada)       ║
 ║  1. Troque TODAS as ocorrências de  SEU_USUARIO  pelo seu @ do GitHub ║
-║  2. Troque os links marcados com  ⟵ EDITAR                           ║
+║  2. Troque os links marcados com  SEU_...                            ║
 ║  3. Suba a pasta /assets e o arquivo .github/workflows/snake.yml     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═════════════════════════ BOOT / BANNER ═════════════════════════ -->
+<!-- ═════════════════════════ SYSTEM BOOT ═════════════════════════ -->
 <p align="center">
-  <img src="./assets/boot.svg" width="100%" alt="M.A.T.H.E.U.S Neural Interface inicializando" />
+  <img src="./assets/boot.svg" width="100%" alt="MTH Neural Interface inicializando" />
 </p>
 
-<!-- ═════════════════════════ TYPING ═════════════════════════ -->
 <p align="center">
   <a href="https://github.com/SEU_USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=48&lines=%3E+Sistema+online.+Bem-vindo%2C+operador.;Empreendedor+digital+%26+criador+de+produtos;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;Disciplina+%3E+Motiva%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=48&lines=Ol%C3%A1%2C+eu+sou+o+MTH+%F0%9F%91%8B;Empreendedor+digital+%7C+Product+Builder+%7C+IA;Construo+SaaS+com+IA+como+copiloto;Ideia+%E2%86%92+Arquitetura+%E2%86%92+Deploy+%E2%86%92+Escala;System.status+%3D+%22ONLINE%22" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=ACESSOS%20AO%20SISTEMA&color=00E5FF&style=for-the-badge&labelColor=0A0F1C" alt="visitas" />
-  <img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-FF2BD6?style=for-the-badge&labelColor=0A0F1C" alt="status" />
-  <img src="https://img.shields.io/badge/BASE-BRASIL_%F0%9F%87%A7%F0%9F%87%B7-39FF88?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=ACESSOS&color=00E5FF&style=for-the-badge&labelColor=0A0F1C" alt="Visitas" />
+  <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=SEGUIDORES&style=for-the-badge&color=FF2BD6&labelColor=0A0F1C&logo=github&logoColor=FF2BD6" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/SEU_USUARIO?label=ESTRELAS&style=for-the-badge&color=39FF88&labelColor=0A0F1C&logo=github&logoColor=39FF88" alt="Estrelas" />
+  <img src="https://img.shields.io/badge/BASE-BRASIL_%F0%9F%87%A7%F0%9F%87%B7-00E5FF?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
@@ -30,18 +30,28 @@
 <!-- ═════════════════════════ 01 · SOBRE MIM ═════════════════════════ -->
 <img src="./assets/h01.svg" width="100%" alt="01 · Sobre mim" />
 
-```ts
-// matheus.config.ts
-const operador = {
-  codinome:   "M.A.T.H.E.U.S",
-  papel:      ["Empreendedor Digital", "Product Builder", "Orquestrador de IA"],
-  base:       "Brasil 🇧🇷",
-  nicho:      ["Desenvolvimento pessoal", "EdTech"],
-  metodo:     "Planejar → Arquitetar → Construir com IA → Validar → Escalar",
-  missoes:    ["ENEM AI", "O Código da Disciplina", "Foco Sem Desculpas"],
-  padrao:     "Qualidade nível Apple · Linear · Stripe",
-  regra_n1:   "Disciplina vence motivação. Todos os dias.",
-} as const;
+```yaml
+OPERADOR:
+  nome:      "Matheus"
+  codinome:  "MTH"
+  papel:     ["Empreendedor Digital", "Product Builder", "Orquestrador de IA"]
+  base:      "Brasil 🇧🇷"
+  nicho:     ["Desenvolvimento pessoal", "EdTech"]
+
+ESTADO_ATUAL:
+  construindo: ["ENEM AI", "O Código da Disciplina", "Foco Sem Desculpas"]
+  explorando:  ["Arquitetura de software", "Agentes de IA", "Automação"]
+  metodo:      "Planejar → Arquitetar → Construir com IA → Validar → Escalar"
+  padrao:      "Qualidade nível Apple · Linear · Stripe"
+
+MISSAO: >
+  Transformar ideias em produtos digitais úteis,
+  rápidos e memoráveis.
+
+STATUS:
+  online:    true
+  foco:      true
+  desculpas: false   # regra da casa
 ```
 
 > [!NOTE]
@@ -68,14 +78,16 @@ const operador = {
   </tr>
 </table>
 
+<p align="center"><b><i>“Não basta usar tecnologia. Construa com ela.”</i></b></p>
+
 <!-- ═════════════════════════ 02 · TECH STACK ═════════════════════════ -->
 <img src="./assets/h02.svg" width="100%" alt="02 · Tech Stack" />
 
-<p align="center"><sub><code>FRONT-END</code></sub><br/><br/>
+<p align="center"><sub><code>CORE · FRONT-END</code></sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Front-end" />
 </p>
 
-<p align="center"><sub><code>BACK-END · DADOS</code></sub><br/><br/>
+<p align="center"><sub><code>BACK-END · BANCO DE DADOS</code></sub><br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,prisma,redis&theme=dark" alt="Back-end e dados" />
 </p>
 
@@ -99,12 +111,24 @@ const operador = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman,md,windows&theme=dark" alt="Ferramentas" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-0A0F1C?style=for-the-badge&logo=claude&logoColor=FF2BD6" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/ChatGPT-0A0F1C?style=for-the-badge&logo=openai&logoColor=00E5FF" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Kiwify-0A0F1C?style=for-the-badge&logoColor=39FF88" alt="Kiwify" />
-  <img src="https://img.shields.io/badge/TikTok-0A0F1C?style=for-the-badge&logo=tiktok&logoColor=FF2BD6" alt="TikTok" />
-</p>
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                AMBIENTE DE DESENVOLVIMENTO                │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  > Editor        VS Code                                  │
+│  > Versionamento Git + GitHub                             │
+│  > Design        Figma                                    │
+│  > Deploy        Vercel + GitHub Actions                  │
+│  > IA            Claude Code + ChatGPT                    │
+│  > Pagamentos    Stripe + Mercado Pago + Kiwify           │
+│  > Sistema       Windows                                  │
+│                                                           │
+│  [████████████████████████████████████████] 100% READY    │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 <!-- ═════════════════════════ 04 · PROJETOS ═════════════════════════ -->
 <img src="./assets/h04.svg" width="100%" alt="04 · Projetos" />
@@ -115,8 +139,22 @@ const operador = {
 </p>
 <p align="center">
   <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="./assets/card-foco.svg" width="49%" alt="Foco Sem Desculpas" /></a>
+  <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-web.svg" width="49%" alt="Experiências Digitais" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-lab.svg" width="49%" alt="Laboratório de IA" /></a>
   <a href="https://github.com/SEU_USUARIO"><img src="./assets/card-classified.svg" width="49%" alt="Projeto classificado" /></a>
 </p>
+
+<!--
+  OPCIONAL: quando seus repositórios forem públicos, descomente para exibir
+  cards dinâmicos (estrelas, forks e linguagem atualizados automaticamente).
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO-1&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
+  <a href="https://github.com/SEU_USUARIO/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPO-2&hide_border=true&bg_color=0A0F1C&title_color=00E5FF&icon_color=FF2BD6&text_color=C9D1D9" /></a>
+</p>
+-->
 
 <!-- ═════════════════════════ 05 · OBJETIVOS ═════════════════════════ -->
 <img src="./assets/h05.svg" width="100%" alt="05 · Objetivos" />
@@ -138,7 +176,7 @@ const operador = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0A0F1C&color=C9D1D9&line=00E5FF&point=FF2BD6&area=true&area_color=00E5FF&title_color=00E5FF&hide_border=true&custom_title=Telemetria%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0A0F1C&color=C9D1D9&line=00E5FF&point=FF2BD6&area=true&area_color=00E5FF&title_color=00E5FF&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%2F%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
 </p>
 
 <!-- ═════════════════════════ 07 · CONQUISTAS ═════════════════════════ -->
@@ -163,6 +201,7 @@ const operador = {
 <img src="./assets/h09.svg" width="100%" alt="09 · Conexões" />
 
 <p align="center">
+  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GitHub-Seguir-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A0F1C" alt="GitHub" /></a>
   <a href="https://www.tiktok.com/@focosemdesculpas0"><img src="https://img.shields.io/badge/TikTok-%40focosemdesculpas0-FF2BD6?style=for-the-badge&logo=tiktok&logoColor=FF2BD6&labelColor=0A0F1C" alt="TikTok" /></a>
   <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Seguir-FF2BD6?style=for-the-badge&logo=instagram&logoColor=FF2BD6&labelColor=0A0F1C" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Conectar-00E5FF?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0A0F1C" alt="LinkedIn" /></a>
@@ -174,9 +213,9 @@ const operador = {
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Fim da transmissão" />
+  <img src="./assets/footer.svg" width="100%" alt="Fim da transmissão: o futuro não é algo que se espera, é algo que se constrói" />
 </p>
 
 <p align="center">
-  <sub><code>// conexão encerrada com sucesso</code> · se algo aqui te inspirou, deixe uma ⭐ e volte amanhã: o sistema nunca para de evoluir.</sub>
+  <sub><code>// conexão encerrada com sucesso</code> · © 2026 MTH · SYSTEM ONLINE · se algo aqui te inspirou, deixe uma ⭐</sub>
 </p>
