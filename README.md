@@ -27,7 +27,7 @@
 
 <!-- ═════════════════════════ UNIDADE S-01 ═════════════════════════ -->
 <p align="center">
-  <img src="./assets/robot.svg?v=2" width="100%" alt="Unidade S-01: robô em pixel art correndo por uma fase de video game" />
+  <img src="./assets/robot.svg?v=3" width="100%" alt="Unidade S-01: robô em pixel art correndo por uma fase de video game" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg?v=2" width="100%" alt="" /></p>
