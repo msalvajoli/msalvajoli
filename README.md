@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/BASE-BRASIL-00E5FF?style=for-the-badge&labelColor=0A0F1C" alt="Brasil" />
 </p>
 
+<!-- ═════════════════════════ UNIDADE S-01 ═════════════════════════ -->
+<p align="center">
+  <img src="./assets/robot.svg?v=1" width="100%" alt="Unidade S-01: robô patrulhando o perfil" />
+</p>
+
 <p align="center"><img src="./assets/divider.svg?v=2" width="100%" alt="" /></p>
 
 <!-- ═════════════════════════ 01 · SOBRE MIM ═════════════════════════ -->
